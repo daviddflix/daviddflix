@@ -10,19 +10,17 @@ I`m a passionate full-stack developer, who enjoys learning new technologies, cre
 - 🔭 I’m currently working on deviaje.com 
 - 🔭 First Project: [Countries](https://countries-app-seven.vercel.app/)
 
----
-
 ### Languages and Tools:
 
 - 💻  HTML5 | CSS3 | GraphQL | JavaScript | React.js | Redux | Git | Github | <br />
 - 🛢  NodeJS | Express.js | PostgreSQL | Sequelize | 
- <br />
- <br /> 
- <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
- <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
- <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
- <code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
- <code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<br />
+<br /> 
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img width="5%" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 <br /> 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code> 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
@@ -33,13 +31,11 @@ I`m a passionate full-stack developer, who enjoys learning new technologies, cre
 <br /> 
 <br />
 
-
 ### Languages:
 
 - Spanish (native)
 - English (Advance)
 - Portuguese (Basic)
----
 
 ### How to reach me:
 
