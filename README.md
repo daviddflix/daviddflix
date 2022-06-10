@@ -6,7 +6,7 @@ I`m a passionate full-stack developer, who enjoys learning new technologies, cre
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love skating.
+- ⚡ Fun fact: I love skating
 - 🔭 I’m currently working on deviaje.com 
 - 🔭 First Project: [Countries](https://countries-app-seven.vercel.app/)
 
