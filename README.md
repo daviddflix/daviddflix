@@ -28,7 +28,7 @@ I`m a passionate full-stack developer, who enjoys learning new technologies, cre
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
-<code><img width="5%" src="[https://www.vectorlogo.zone/logos/github/github-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3APython-logo-notext.svg&psig=AOvVaw1CBQmDszKkxndW1J3rrUMf&ust=1676236600076000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMi1r4qyjv0CFQAAAAAdAAAAABAE)"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <br /> 
 <br />
 
