@@ -12,7 +12,7 @@ I`m a passionate full-stack developer, who enjoys learning new technologies, cre
 
 ### Languages and Tools:
 
-- 💻  HTML5 | CSS3 | GraphQL | JavaScript | React.js | Redux | Git | Github | <br />
+- 💻  HTML5 | CSS3 | GraphQL | JavaScript | Python | React.js | Redux | Git | Github | <br />
 - 🛢  NodeJS | Express.js | PostgreSQL | Sequelize | 
 <br />
 <br /> 
