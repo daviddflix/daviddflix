@@ -2,7 +2,7 @@
 
 <h2>💯 About me 💯</h2>
 
-I`m a passionate full-stack developer, who enjoys learning new technologies, creating beautiful websites, and making the user have a good experience.
+I'm a Full-stack with a remarkable ability to learn and adapt to new technologies with ease. My passion for software development drives me to continuously seek new challenges and opportunities to grow my skill set. With a keen attention to detail and a strong work ethic, I am committed to delivering high-quality solutions that meet the needs of clients and end-users alike.
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3
