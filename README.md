@@ -29,6 +29,7 @@ I'm a Full-stack with a remarkable ability to learn and adapt to new technologie
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <br /> 
 <br />
 
