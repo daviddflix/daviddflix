@@ -4,15 +4,16 @@
 
 I'm a Full-stack with a remarkable ability to learn and adapt to new technologies with ease. My passion for software development drives me to continuously seek new challenges and opportunities to grow my skill set. With a keen attention to detail and a strong work ethic, I am committed to delivering high-quality solutions that meet the needs of clients and end-users alike.
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Learn more about web3
+- 🌱 Continuously improving my skills, with a focus on advanced Python and scalable backend architecture
+- 🥅 2025 Goals: Deepen my large-scale backend and cloud infrastructure expertise
 - ⚡ Fun fact: I love skating
-- 🔭 I’m currently working on deviaje.com 
+- 🔭 I’m currently working on deviaje.com
 - 🔭 First Project: [Countries](https://countries-app-seven.vercel.app/)
+- ⚙️ Developed and maintained large-scale Python backend services handling high volumes of traffic
 
 ### Languages and Tools:
 
-- 💻  HTML5 | CSS3 | GraphQL | JavaScript | Python | React.js | Redux | Git | Github | <br />
+- 💻  HTML5 | CSS3 | GraphQL | JavaScript | Python | React.js | Redux | Git | Github | Docker | Kubernetes | <br />
 - 🛢  NodeJS | Express.js | PostgreSQL | Sequelize | 
 <br />
 <br /> 
@@ -30,13 +31,15 @@ I'm a Full-stack with a remarkable ability to learn and adapt to new technologie
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<br /> 
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+<br />
 <br />
 
 ### Languages:
 
 - Spanish (native)
-- English (Advance)
+- English (Advanced)
 - Portuguese (Basic)
 
 ### How to reach me:
