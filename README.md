@@ -7,7 +7,7 @@ I'm a Full-stack with a remarkable ability to learn and adapt to new technologie
 - 🌱 Continuously improving my skills, with a focus on advanced Python and scalable backend architecture
 - 🥅 2025 Goals: Deepen my large-scale backend and cloud infrastructure expertise
 - ⚡ Fun fact: I love skating
-- 🔭 I’m currently working on deviaje.com
+- 🔭 I’m currently working at Novatide Labs.
 - 🔭 First Project: [Countries](https://countries-app-seven.vercel.app/)
 - ⚙️ Developed and maintained large-scale Python backend services handling high volumes of traffic
 
@@ -44,7 +44,7 @@ I'm a Full-stack with a remarkable ability to learn and adapt to new technologie
 
 ### How to reach me:
 
- [![Connect on Email](https://img.shields.io/badge/Email-David%20Pajaro-green)](mailto:david-972010@hotmail.com)
+ [![Connect on Email](https://img.shields.io/badge/Email-David%20Rodriguez-green)](mailto:daviddflix@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/david-pajaro-rodriguez-0129109b/)
 
 
