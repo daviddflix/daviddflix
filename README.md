@@ -1,45 +1,34 @@
-# 👋 Hello World, I'm David — Tech Lead & Full Stack Developer
+# Hi, I'm David 👋
 
-## 💼 About Me
+I build AI agents and the integrations that let them do real work inside a business: connecting them to the tools teams already use, the data they depend on, and the backends that keep them running in production.
 
-I'm a Tech Lead and Full Stack Developer with a passion for building scalable, high-performance systems. I bring strong expertise in backend development with Python and JavaScript, along with leadership experience in guiding cross-functional teams. I'm deeply committed to clean architecture, continuous improvement, and mentoring others as we build impactful, reliable software together.
+Before focusing on AI, I spent 5+ years as a full-stack engineer and tech lead, so I care about the parts around the model too: clean architecture, tests, CI/CD and documentation other people can maintain.
 
-## 🎯 2025 Goals
+## What I work on
 
-- 📦 Master Kubernetes and cloud-native deployment strategies
-- 🧠 Deepen expertise in distributed systems and event-driven architectures
-- 👥 Mentor junior developers and scale high-performing backend teams
-- 📈 Contribute to the development of secure and compliant fintech platforms
+- **Agent workflows:** multi-step agents with LangGraph that automate research, classification and writing tasks
+- **Tools for agents:** MCP servers and agent-to-agent (A2A) connectors that give agents safe access to internal data and services
+- **Integrations:** Slack, Monday, Lark, market-data providers, payment providers, S3 data pipelines
+- **Production:** Docker, CI/CD, test-driven development, and docs and onboarding for the teams that take it over
 
-## 🛠️ Tech Stack
+## Recently
 
-### Languages & Frameworks
-- **Frontend**: HTML5, CSS3, JavaScript, React.js, Redux, GraphQL  
-- **Backend**: Python (FastAPI, Flask), Node.js, Express.js  
-- **Databases**: PostgreSQL, Sequelize  
+- Built LangGraph workflows that automate research and report writing for an analyst team
+- Wrote Python client libraries for external data providers that feed a shared data lake
+- Shipped an agent worker that picks up assigned tasks and runs them with coding agents (Claude Code, Codex, Cursor)
+- Led engineering practices on my team: TDD, CI/CD, code quality and developer onboarding
 
-### DevOps & Tools
-- Docker  
-- Git & GitHub  
-- CI/CD pipelines  
-- (📍Learning) Kubernetes
+## Stack
 
-## 🚀 Recent Highlights
+- **AI:** LangGraph · LangChain · MCP · A2A · OpenAI and Anthropic APIs · Ollama
+- **Backend:** Python (FastAPI) · TypeScript (NestJS, Express) · PostgreSQL · Redis · WebSockets
+- **Frontend:** React · Next.js
+- **Ops:** Docker · GitHub Actions · AWS S3
 
-- Led development of scalable Python microservices handling high traffic
-- Designed and implemented secure, multi-organization architecture using Domain-Driven Design (DDD)
-- Promoted and enforced TDD, CI/CD best practices, and code quality standards
-- Driving internal documentation and developer onboarding initiatives
+## Languages
 
-## 🌍 Languages
+🇪🇸 Spanish (native) · 🇬🇧 English (advanced) · 🇧🇷 Portuguese (basic)
 
-- 🇪🇸 Spanish (Native)  
-- 🇬🇧 English (Advanced)  
-- 🇧🇷 Portuguese (Basic)  
+Off the keyboard I skate: balancing systems and tricks alike. 🛹
 
-## ⚡ Fun Fact
-
-I’m passionate about skating — balancing software systems and skating tricks alike.
-
-
-> 📫 Let’s connect and build something meaningful.
+📫 [LinkedIn](https://www.linkedin.com/in/arnold-david-rodriguez-c-0129109b/)
